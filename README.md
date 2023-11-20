@@ -1,4 +1,5 @@
-# homewithinahome
+# Documentation on the project itself.
+
 The code you provided prompts the user to enter their name, birthdate, and age. It then prints out the user's name and birthdate, followed by half of their age.
 
 Here is a step-by-step breakdown of what the code does:
